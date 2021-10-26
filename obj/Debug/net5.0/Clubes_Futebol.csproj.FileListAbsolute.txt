@@ -1,0 +1,16 @@
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\Clubes_Futebol\bin\Debug\net5.0\Clubes_Futebol.exe
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\Clubes_Futebol\bin\Debug\net5.0\Clubes_Futebol.deps.json
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\Clubes_Futebol\bin\Debug\net5.0\Clubes_Futebol.runtimeconfig.json
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\Clubes_Futebol\bin\Debug\net5.0\Clubes_Futebol.runtimeconfig.dev.json
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\Clubes_Futebol\bin\Debug\net5.0\Clubes_Futebol.dll
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\Clubes_Futebol\bin\Debug\net5.0\ref\Clubes_Futebol.dll
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\Clubes_Futebol\bin\Debug\net5.0\Clubes_Futebol.pdb
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\Clubes_Futebol\obj\Debug\net5.0\Clubes_Futebol.csproj.AssemblyReference.cache
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\Clubes_Futebol\obj\Debug\net5.0\Clubes_Futebol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\Clubes_Futebol\obj\Debug\net5.0\Clubes_Futebol.AssemblyInfoInputs.cache
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\Clubes_Futebol\obj\Debug\net5.0\Clubes_Futebol.AssemblyInfo.cs
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\Clubes_Futebol\obj\Debug\net5.0\Clubes_Futebol.csproj.CoreCompileInputs.cache
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\Clubes_Futebol\obj\Debug\net5.0\Clubes_Futebol.dll
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\Clubes_Futebol\obj\Debug\net5.0\ref\Clubes_Futebol.dll
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\Clubes_Futebol\obj\Debug\net5.0\Clubes_Futebol.pdb
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\Clubes_Futebol\obj\Debug\net5.0\Clubes_Futebol.genruntimeconfig.cache
